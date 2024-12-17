@@ -30,11 +30,21 @@ The main exploration and evaluation was made in the **expl.ipynb** notebook, and
 1. Clone this repository:
    ```bash
    git clone https://github.com/alexdalboel/DS821_exam.git
+   cd DS821_exam
+2. Create and activate virtual environment 
+- Windows
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
+- Mac
+  ```bash
+    python3 -m venv venv
+    source venv/bin/activate
 
-2. Install dependencies 
+3. Install dependencies 
    ```bash
    pip install -r requirements.txt
 
-3. Run Dash app
+4. Run Dash app
    ```bash
    python app.py
