@@ -16,7 +16,7 @@ from nltk.corpus import stopwords
 import nltk
 import re
 
-# Loading 0.01% sample of the patent dataset.
+# Loading 0.02% sample of the patent dataset.
 df = pd.read_csv('sum_2024_sample.tsv', sep='\t')
 
 """
