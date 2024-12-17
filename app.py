@@ -307,7 +307,7 @@ def update_patent_summary_and_plot(n_clicks):
 
     # Retrieve the selected patent data from the dataframe
     patent_data = df[df['patent_id'] == selected_patent_id]
-    summary_text = patent_data.iloc[0]['summary_text']
+    summary_text = patent_data.iloc[0]['extracted_text']
 
     # Use my classify_industry function to classify the summary text
     top_industries, top_similarities = classify_industry(summary_text)
