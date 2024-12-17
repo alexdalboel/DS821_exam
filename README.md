@@ -25,7 +25,7 @@ The main exploration and evaluation was made in the **expl.ipynb** notebook, and
 - **Industry Classification**: Classify patents into relevant industries based on their summaries.
 - **Visualization**: Bar charts showing the applicability of a patent to different industries.
 ---
-## Installation
+## Installation to run dash app locally
 
 1. Clone this repository:
    ```bash
