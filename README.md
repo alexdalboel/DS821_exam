@@ -1,6 +1,7 @@
 # Patent Classification and Keyword generation Dashboard
 
-This project involves building a model to classify patents into industry sectors based on their text summaries, using the **PatensView** 2024 dataset. .
+This project involves building a model to classify patents into industry sectors based on their text summaries, using the **PatensView** 2024 dataset. 
+The main exploration and evaluation was made in the **expl.ipynb** notebook, and the concepts derived from that work, were simply implemented to a Dash-plotly application.
 
 <img src="https://github.com/alexdalboel/DS821_exam/blob/main/patentvid.gif" width="700"/>
 
