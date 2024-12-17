@@ -38,8 +38,8 @@ The main exploration and evaluation was made in the **expl.ipynb** notebook, and
    .\venv\Scripts\activate
 - Mac
   ```bash
-    python3 -m venv venv
-    source venv/bin/activate
+  python3 -m venv venv
+  source venv/bin/activate
 
 3. Install dependencies 
    ```bash
