@@ -31,7 +31,7 @@ The main exploration and evaluation was made in the **expl.ipynb** notebook, and
    ```bash
    git clone https://github.com/alexdalboel/DS821_exam.git
    cd DS821_exam
-2. Create and activate virtual environment 
+2. (Recommended) Create and activate virtual environment 
 - Windows
    ```bash
    python -m venv venv
